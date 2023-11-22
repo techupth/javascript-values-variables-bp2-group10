@@ -1,7 +1,7 @@
 //Exercise #1: Variable Creation
 //Start coding here
 let firstName = "Karter";
-let LastName  = "Anderson";
+let lastName  = "Anderson";
 let addressInfo = "54/24 Gp 5 Bangkruay-Sainoi Bang Kruay Bang Kruai";
 
 const restaurantName = "Chef's Table by Chef James";
